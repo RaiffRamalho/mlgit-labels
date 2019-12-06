@@ -3,10 +3,10 @@ labels:
   - computer
   - images
   dataset:
-    sha: ebb0035bfd6007851c1260ba5b4e73f4c3e2c04f
-    tag: computer-vision__images__dataset-ex__2
+    sha: d42fa0dbde06238219817eb5abd51438dfa2143e
+    tag: computer-vision__images__dataset-ex__3
   manifest:
     files: MANIFEST.yaml
     store: s3h://br.edu.ufcg.virtus.hp.mlaas.versioning
   name: mscoco
-  version: 2
+  version: 3
